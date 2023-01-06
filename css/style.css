@@ -222,7 +222,7 @@ img {
 }
 @media (max-width: 991px) {
     .container .stats {
-        width: 400px;
+        width: 200px;
     }
 }
 
@@ -252,7 +252,7 @@ img {
 }
 @media (max-width: 991px) {
     .container .btns {
-        width: 400px;
+        width: 310px;
         bottom: -230px;
     }
 }
@@ -271,7 +271,7 @@ img {
 }
 @media (max-width: 991px) {
     .container .btns button {
-        padding: 5px 15px;
+        padding: 5px;
         font-size: 12px;
         font-family: 'Noto Sans Arabic', sans-serif;
         width: 100px;
